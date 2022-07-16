@@ -1,0 +1,66 @@
+Algoritmo "notaaluno"
+
+Var
+
+nome, aprovacao, reprovacao, turmaA, turmaB, turmaC, turmaD : caractere
+notafinal : real
+
+totaldealunosturmaA <- 0
+
+ENQUANTO totaldealunos < 25 FACA
+	IMPRIMA "nome, notafinal, turma"
+FIMENQUANTO
+
+notafinal <- escreva "digite seu nome, sua nota e sua turma"
+Se notafinal >= 7 entao
+	Imprima "foi aprovado"
+Senao
+	Imprima "Reprovado"
+
+FIMSE
+
+
+totaldealunosturmaB <- 0
+
+ENQUANTO totaldealunos < 25 FACA
+	IMPRIMA "nome, notafinal, turma"
+FIMENQUANTO
+
+notafinal <- escreva "digite seu nome, sua nota e sua turma"
+Se notafinal >= 7 entao
+	Imprima "foi aprovado"
+Senao
+	Imprima "Reprovado"
+
+FIMSE
+ 
+totaldealunosturmaC <- 0
+
+ENQUANTO totaldealunos < 25 FACA
+	IMPRIMA "nome, notafinal, turma"
+FIMENQUANTO
+
+notafinal <- escreva "digite seu nome, sua nota e sua turma"
+Se notafinal >= 7 entao
+	Imprima "foi aprovado"
+Senao
+	Imprima "Reprovado"
+
+FIMSE
+
+totaldealunosturmaD <- 0
+
+ENQUANTO totaldealunos < 25 FACA
+	IMPRIMA "nome, notafinal, turma"
+FIMENQUANTO
+
+notafinal <- escreva "digite seu nome, sua nota e sua turma"
+Se notafinal >= 7 entao
+	Imprima "foi aprovado"
+Senao
+	Imprima "Reprovado"
+
+FIMSE
+
+
+
